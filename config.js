@@ -11,9 +11,9 @@ exports.TTSPassword = 'bz8Npp2LadR1'; // Text to speech password
 exports.TTSUsername = '98539b20-048c-4ffe-950e-c38392b91959';
 
 // Credentials for Watson Conversation service
-//exports.ConPassword = ''; // conversation service password
-//exports.ConUsername = ''; // conversation service username
-//exports.ConWorkspace = ''; // Conversation workspace id
+exports.ConPassword = 'x6aB2gjQQIDx'; // conversation service password
+exports.ConUsername = '631a2ea8-25c1-4531-a438-6af6912c399b'; // conversation service username
+exports.ConWorkspace = '8db07315-e1df-4484-a4e7-c19f5e1e62b3'; // Conversation workspace id
 
 // Credentials for Vision Api
 //exports.VisionKey = '';
